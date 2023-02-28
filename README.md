@@ -1,2 +1,4 @@
 # COVID19-Project
 Data Cleaning, Exploration using SQL and Data visualisation using Tableau.
+
+The COVID-19 dataset contains information on the number of cases and deaths by countries, continents, dates, vaccinations and other relevant data. The dataset was used to explore the correlation between number of cases and deaths, calculating the death percentage in each country, highest infection rates, finding out the number of cases and deaths by day globally and so on. The dataset was used to analyse the global impact of the COVID-19 pandemic and the effectiveness of vaccination efforts. Insights were discovered such as global COVID-19 cases and deaths, the total death count in each continent, the percentage of people infected with COVID-19 per country and a timeline of population to infected compared to particular countries.
